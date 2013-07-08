@@ -1,0 +1,10 @@
+{
+    "name" : "node-tv",
+    "description" : "node.js video scheduler",
+    "version" : "0.0.1",
+    "dependencies" : {
+        "express" : "3.3.3",
+        "socket.io" : "0.9.16",
+        "youtube-feeds": "2.2.1"
+    }
+}
